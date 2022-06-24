@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**an7e/an7e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ilia Androshchuk and I am a unicorn 🦄 developer 👨‍💻 and Full Stack Engineer
 
-Here are some ideas to get you started:
+### 🔭 I’m working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=CPlusPlus&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" />
+</p>
+
+### 🌱 GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=an7e&show_icons=true&theme=tokyonight)
+
+### 📫 How to reach me
+<p>
+  <a href="https://www.linkedin.com/in/ilia-androshchuk/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
