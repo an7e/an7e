@@ -15,7 +15,7 @@ My name is Ilia Androshchuk and I am a unicorn 🦄 developer 👨‍💻 and Fu
 
 ### 🌱 GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=an7e&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=an7e&show_icons=true&theme=tokyonight&count_private=true)
 
 ### 📫 How to reach me
 <p>
