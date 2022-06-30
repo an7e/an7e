@@ -10,7 +10,6 @@ My name is Ilia Androshchuk and I am a unicorn 🦄 developer 👨‍💻 and Fu
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=CPlusPlus&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" />
 </p>
 
 ### 🌱 GitHub stats
