@@ -2,13 +2,6 @@
 
 My name is Ilia Androshchuk and I am a unicorn 🦄 developer 👨‍💻 and Full Stack Engineer
 
-### 🔭 I’m working with
-
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3178C6?logo=Python&logoColor=white&style=for-the-badge" />
-</p>
-
 ### 🌱 GitHub stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=an7e&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
